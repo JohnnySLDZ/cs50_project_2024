@@ -1,5 +1,10 @@
 # Image and Video Converter
-#### Video Demo:  <https://youtu.be/cuMBjPN6XMk>
+Final project for CS50's Introduction to Computer Science 2024
+
+#### Video Demo⬇️⬇️⬇️:  
+[![Alt text](https://img.youtube.com/vi/cuMBjPN6XMk/0.jpg)](https://www.youtube.com/watch?v=cuMBjPN6XMk)
+
+<https://youtu.be/cuMBjPN6XMk>
 ### Used Libraries:
 - [Getopt](https://www.gnu.org/software/libc/manual/html_node/Getopt.html)
 - [STB](https://github.com/nothings/stb/tree/master)
